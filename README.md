@@ -8,6 +8,7 @@ Toolkit pédagogique et computationnel pour :
 - ML matériaux (GNN + MLWF features)
 ________________________________________
 ⚙️ Installation
+
 conda env create -f environment.yml
 
 conda activate manybody
